@@ -98,7 +98,7 @@ class javaid(object):
 
         f.close() 
         #print 'read over file:' + fileName
-        #print '------------------------'
+        #print '---------------------------'
     def function_search_line(self):
         fl = open(self._filename, 'r') 
         self._line =0
